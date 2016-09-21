@@ -1,0 +1,45 @@
+
+## Engine Rules
+
+### Fruit Trees
+
+Each fruit tree has a task, a riddle, a real world task or a playground programming task.
+Each task comes with different levels
+Tasks can be:
+- Send an encrypted email (chat message, encrypted file) to ...
+- Do a little linux hack
+- Find a find on Github
+- Clone a project from Github
+- Send a pull request
+- Get information from onion service
+- Program a ceasar cipher
+- Send Diaspora Message
+
+Depending on the level, the player gets a cretain amount of fruits over some time, like subscription that ends
+There are 21 different friuts, 14 normal, 7 with special abilities
+Fruits are deposed in the invisible backpack.
+They vanish over time (miuch like a healty currency with negative interest).
+
+#### Finding trees
+
+Fruit trees are hidden.
+You cannot see from the outside that it is one other than seeing an actual fruit.
+But they grow fast and fall down fast.
+Usually squirrels pick them up.
+Squirrels are always close to fruit trees.
+If they carry fruits, they run away from the tree, if not they may go to the tree.
+Trees are marked in the magic garden map.
+
+### Lotus Flowers
+
+Every Lotus flower represents one wrong thought.
+It shows it when you touch the flower.
+You get it when you touch the text.
+Lotus flowers always grow on connecting lines between trees.
+
+
+## Technical Ideas
+
+Every wrong thought is one Ascii doc file (Pull requests)
+
+
